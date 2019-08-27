@@ -1,0 +1,30 @@
+# ES: modifica para el mensaje al volver al hud
+# ENG: edit for send message to back hub
+message: §4System §8» §4Teleportiere...
+title: §6Teleportiere zum
+subtitle: §7Hub
+
+# ES: true para eliminar items del inventario y efectos
+# ENG: true for delete inventory items
+clear-inventory: false
+clear-armor: false
+clear-effect: false
+
+# ES: solo usuarios avanzados
+# ENG: only advanced users
+description: §aZyntruxMC §8- §aHub
+aliases:
+- spawn
+- lobby
+- l
+- s
+
+# ES: no modificar esto a menos que sepas las coordenadas
+# ENG: need the position of hub for edit this!
+Yaw: 0.0
+Pitch: 0.0
+World: ""
+Pos:
+- 128
+- 100
+- 128
